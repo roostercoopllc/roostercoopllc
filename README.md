@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[http://some_place.com/image.png](https://avatars.githubusercontent.com/u/9157083?v=4)" />
+  <img src="https://avatars.githubusercontent.com/u/9157083?v=4" />
 </p>
 
 # History
